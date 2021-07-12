@@ -2,3 +2,8 @@
 *.php
 *.mo
 *.po
+.htaccess
+.user.ini
+wp-admin/
+wp-includes/
+.well-known
