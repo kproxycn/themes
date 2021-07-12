@@ -10,3 +10,5 @@
 
 #file
 *.php
+.user.ini
+.htaccess
